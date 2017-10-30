@@ -1,3 +1,4 @@
+using SampleLibrary;
 using System;
 using System.Runtime.InteropServices;
 using static System.Console;
@@ -17,6 +18,7 @@ public static class Program
         WriteLine("**Environment**");
         WriteLine($"Platform: .NET Core 2.0");
         WriteLine($"OS: {RuntimeInformation.OSDescription}");
+        WriteLine($"Date: {SampleDateFormat.GetDateTime()}");
         WriteLine();
   }
 
