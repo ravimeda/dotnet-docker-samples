@@ -4,11 +4,11 @@
 
 # Supported Windows Server 2016 Version 1709 (Fall Creators Update) amd64 tags
 
-- [`dotnetapp-nanoserver-1709` (*dotnetapp-prod/Dockerfile*)](https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-prod/Dockerfile)
+- [`dotnetapp-nanoserver-1709`, `dotnetapp`, `latest` (*dotnetapp-prod/Dockerfile*)](https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-prod/Dockerfile)
 
 # Supported Windows Server 2016 amd64 tags
 
-- [`dotnetapp-nanoserver`, `dotnetapp`, `latest` (*dotnetapp-prod/Dockerfile*)](https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-prod/Dockerfile)
+- [`dotnetapp-nanoserver-sac2016`, `dotnetapp`, `latest` (*dotnetapp-prod/Dockerfile*)](https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-prod/Dockerfile)
 
 # Supported Linux arm32 tags
 
